@@ -8,6 +8,7 @@ xhofe/alist:latest
 postgres:latest
 dimitri/pgloader:latest
 timescale/timescaledb:latest-pg17
+minio/minio:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
